@@ -1,0 +1,27 @@
+### SOURCE: AHA/ACC Atrial Fibrillation Guidelines (public summary)
+Atrial fibrillation (AFib) is an irregular, often rapid heart rhythm that increases stroke risk five-fold. Patients presenting with AFib and rapid ventricular response, chest pain, or hemodynamic instability require urgent evaluation. Stable AFib with controlled rate can often be managed outpatient with anticoagulation assessment (CHA2DS2-VASc score) and rate/rhythm control follow-up.
+
+### SOURCE: AHA PVC (Premature Ventricular Contraction) Guidance
+Premature ventricular contractions (PVCs) are common and often benign in structurally normal hearts, especially if infrequent and asymptomatic. Frequent PVCs (>10-15% of total beats), PVCs associated with structural heart disease, syncope, or symptoms of dizziness/palpitations warrant cardiology referral and further evaluation such as echocardiogram or Holter monitoring.
+
+### SOURCE: WHO Emergency Triage (ETAT) Principles
+Triage prioritizes patients based on urgency, not order of arrival. Emergency signs (obstructed airway, severe respiratory distress, shock, active bleeding, unconsciousness) require immediate life-saving intervention. Priority signs (persistent vomiting, severe pain, high fever) require rapid assessment. Non-urgent patients can safely wait.
+
+### SOURCE: NICE Guidance on Chest Pain and Arrhythmia Assessment
+New-onset arrhythmia with chest pain, breathlessness, or syncope should be treated as urgent and referred for same-day cardiology assessment or emergency care. Asymptomatic, incidentally found arrhythmias without red-flag symptoms can typically follow routine outpatient pathways.
+
+### SOURCE: CDC Heart Disease and Stroke Risk Factors
+Key risk factors that increase urgency of cardiac symptom evaluation include: age over 65, history of hypertension, diabetes, prior myocardial infarction, family history of sudden cardiac death, and current smoking status. These factors should raise the index of suspicion for serious underlying pathology.
+
+### SOURCE: ESI (Emergency Severity Index) Triage Scale Overview
+ESI Level 1: Immediate life-saving intervention needed (e.g., cardiac arrest, unresponsive).
+ESI Level 2: High risk situation, severe pain/distress, or abnormal vital signs suggesting a time-critical condition (e.g., new symptomatic arrhythmia).
+ESI Level 3: Stable but requires multiple resources for workup (e.g., stable palpitations with mild symptoms needing ECG + labs).
+ESI Level 4: Requires one resource (e.g., simple evaluation).
+ESI Level 5: No resources needed, routine follow-up appropriate.
+
+### SOURCE: AHA Palpitations Evaluation Guidance
+Palpitations accompanied by syncope, chest pain, shortness of breath, or exertional symptoms should be evaluated urgently with ECG and monitoring. Isolated palpitations without these red flags in a young, otherwise healthy patient are usually lower risk but still warrant baseline ECG.
+
+### SOURCE: General Disclaimer Guidance (Clinical Decision Support Best Practice)
+Clinical decision support tools are intended to assist, not replace, clinician judgment. All AI-generated triage suggestions should be reviewed by a qualified healthcare professional before any clinical action is taken. This tool does not provide a diagnosis.
